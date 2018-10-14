@@ -1,0 +1,4 @@
+{
+    "uri": ["localhost", "1337"],
+    "database_url": "sqlite:///absolute/path/to/banana.db"
+}

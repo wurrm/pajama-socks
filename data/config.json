@@ -1,0 +1,12 @@
+{
+    "bot_token": "TOKEN",
+    "global_prefix": "!",
+    "database_url": "sqlite:///data/banana.db",
+    "module_server_uris": [
+        "localhost:1337"
+    ],
+    "bot_server_link": "INVITE_URL",
+    "bot_owner_ids": [
+        "ID"
+    ]
+}
